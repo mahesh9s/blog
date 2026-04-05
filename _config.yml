@@ -1,0 +1,11 @@
+title: Sai's Blog
+description: Product thinking on AI, data platforms, and building in the open
+author: Sai Mahesh
+
+theme: minima
+
+url: "https://mahesh9s.github.io"
+baseurl: "/blog"
+permalink: /:year/:slug/
+
+show_excerpts: true
